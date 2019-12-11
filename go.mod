@@ -1,4 +1,4 @@
-module mgo
+module github.com/mfcab/mgo
 
 go 1.13
 
